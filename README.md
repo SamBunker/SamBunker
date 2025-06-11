@@ -17,7 +17,7 @@ Lately, I've been focused on:
 ![Java](https://img.shields.io/badge/Java-5391FE?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-and more. to be added.
+<br>and more. to be added.
 
 ---
 

@@ -22,8 +22,8 @@ and more. to be added.
 ---
 
 ## Aspirations for the Future 🌱
-- [Project+)]((https://partners.comptia.org/certifications/project))
-- [Certified Associate of Project Management]((https://www.pmi.org/certifications/certified-associate-capm))
+- [Project+]((https://partners.comptia.org/certifications/project))
+- [Certified Associate of Project Management](https://www.pmi.org/certifications/certified-associate-capm)
 - [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp)
 
 ---

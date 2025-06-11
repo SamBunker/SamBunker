@@ -22,7 +22,7 @@ Lately, I've been focused on:
 ---
 
 ## Aspirations for the Future 🌱
-- [Project+](https://partners.comptia.org/certifications/project))
+- [Project+](https://partners.comptia.org/certifications/project)
 - [Certified Associate of Project Management](https://www.pmi.org/certifications/certified-associate-capm)
 - [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp)
 

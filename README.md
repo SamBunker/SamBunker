@@ -14,7 +14,7 @@ Lately, I've been focused on:
 
 ## Technical Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5391FE?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5391FE?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 and more. to be added.

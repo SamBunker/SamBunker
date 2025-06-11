@@ -1,4 +1,4 @@
-# o7 soldier. Welcome to my Github page. I'm [Sam](https://github.com/SamBunker) 😎
+# Cheers, I'm [Sam](https://github.com/SamBunker). Thanks for visiting! 😎
 
 Lately, I've been focused on:
 - ☕ Java Development

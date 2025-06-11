@@ -29,7 +29,6 @@ and more. to be added.
 ---
 
 ## Connect with me 📬  
-I’m always open to collaboration on AI security tooling, automation, or open-source innovation.  
-👉 Connect on [LinkedIn](https://www.linkedin.com/in/adamrobertspopescu/) and let’s build something impactful.
+I’m always open to collaboration. Want to play RuneScape together? Let me know too..
 
 Huge thanks to [TechEnchante](https://github.com/TechEnchante) for this read.me styling.

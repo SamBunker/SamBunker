@@ -8,7 +8,7 @@ Lately, I've been focused on:
 ---
 
 ## Education 🎓
-[![Bachelor's of Information Technology]([https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logo=scrumalliance&logoColor=white](https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logoColor=white)
+[![Bachelor's of Information Technology]([https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logo=scrumalliance&logoColor=white](https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logoColor=white))
 
 ---
 

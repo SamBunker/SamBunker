@@ -8,7 +8,7 @@ Lately, I've been focused on:
 ---
 
 ## Education 🎓
-[![Bachelor's of Information Technology]([https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logo=scrumalliance&logoColor=white](https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logoColor=white))]
+[![Bachelor's of Information Technology]([https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logo=scrumalliance&logoColor=white](https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -22,7 +22,7 @@ and more. to be added.
 ---
 
 ## Aspirations for the Future 🌱
-- [Project+]((https://partners.comptia.org/certifications/project))
+- [Project+](https://partners.comptia.org/certifications/project))
 - [Certified Associate of Project Management](https://www.pmi.org/certifications/certified-associate-capm)
 - [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp)
 

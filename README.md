@@ -13,19 +13,101 @@ Lately, I've been focused on:
 ---
 
 ## Technical Skills 🛠️
+
+### Project Management
+- The Triple Constraint
+- Prioritization and Delegation
+- Risk Management
+- Time Management
+
+Software Learned:<br>
+![Excel](https://img.shields.io/badge/Microsoft_Excel-3776AB?style=for-the-badge&logo=googledocs&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-3776AB?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-3776AB?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Microsoft_Teams-3776AB?style=for-the-badge&logo=trello&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-3776AB?style=for-the-badge&logo=jira&logoColor=white)
+![ConnectWise Manage](https://img.shields.io/badge/ConnectWise_Manage-3776AB?style=for-the-badge)
+![Moovila](https://img.shields.io/badge/Moovila-3776AB?style=for-the-badge)
+
+---
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5391FE?style=for-the-badge&logo=kotlin&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-<br><br>
-•	Project Management (The Triple Constraint, Prioritization and Delegation, Risk Management, and Time Management). Software like Microsoft Teams, Trello/Jira<br>
-•	Programming Languages (Python, Java, JavaScript (React, Node.js), TypeScript, Bash)<br>
-•	Software Engineering (Methodologies like Agile, Scrum, Waterfall for rapid development)<br>
-•	Database Management Systems (MySQL, MongoDB, Amazon DynamoDB, Google Firebase)<br>
-•	Security Engineering (Virtual Machines, Network Security, System Security, Application Security, Digital Forensics, Data Recovery, Data Destruction, and Penetration Testing) Utilized Nmap, NetCat, Metasploit, WEP Cracking, Autopsy, Unix Terminal, Sha1sum<br>
-•	Web Programming (LAMP Stack, Frontend Stack, React, Express.js, Node.js, jQuery, Python, WordPress Plugins & Backend (PHP), RESTful API)<br>
-•	Web Design (Wireframing techniques using Adobe XD/Figma, Responsive Design, Design thinking methodologies, Prototyping, WordPress Themes, Shopify Themes, Adobe Suite)<br>
-•	Web Systems Management (AWS Web Services mgmt., Vercel & Dev Environment, CMS, Web Maintenance, cPanel Config, DNS mgmt., Google Analytics)
+![JavaScript](https://img.shields.io/badge/JavaScript-0089D6?style=for-the-badge&logo=javascript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-607078?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-607078?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+### Software Engineering
+
+- Methodologies like Agile
+- Scrum
+- Waterfall
+
+---
+
+### Database Management Systems
+
+- MySQL
+- MongoDB
+- Amazon DynamoDB
+- Google Firebase
+---
+### Security Engineering
+
+- Virtual Machines
+- Network Security
+- System Security
+- Application Security
+- Digital Forensics
+- Data Recovery
+- Data Destruction
+- Penetration Testing
+
+Software Learned:<br>
+![Nmap](https://img.shields.io/badge/Nmap-3776AB?style=for-the-badge)
+![NetCat](https://img.shields.io/badge/Metasploit-3776AB?style=for-the-badge)
+![WEP Cracking](https://img.shields.io/badge/WEP_Cracking-3776AB?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-3776AB?style=for-the-badge)
+![Unix Terminal](https://img.shields.io/badge/Unix_Terminal-3776AB?style=for-the-badge)
+![Sha1sum](https://img.shields.io/badge/Sha1sum-3776AB?style=for-the-badge)
+
+---
+### Web Programming
+
+- LAMP Stack
+- Frontend Stack
+- React
+- Express.js
+- Node.js
+- jQuery
+- Python
+- WordPress Plugins & Backend (PHP)
+- RESTful API
+
+---
+### Web Design 
+
+- Wireframing techniques using Adobe XD/Figma
+- Responsive Design
+- Design thinking methodologies
+- Prototyping
+- WordPress Themes
+- Shopify Themes
+- Adobe Suite
+
+---
+### Web Systems Management
+
+- AWS Web Services Management (Dynamo)
+- Vercel & Dev Environment
+- CMS
+- Web Maintenance
+- cPanel Config
+- DNS Management
+- Google Analytics
 
 ---
 

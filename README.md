@@ -11,6 +11,14 @@ Lately, I've been focused on:
 ![Bachelor's of Information Technology](https://img.shields.io/badge/Bachelor's_of-Information_Technology-4285F4?style=for-the-badge&logoColor=white)
 
 ---
+## Posting Board 📌
+Programming for me is an art. It's also weird calling it "programming". The reality is, the opportunity to **create** and **author** something from nothing feels amazing. From building a website through HTML, CSS, and writing JavaScript to pushing the boundaries for some of my favorite games. Being the technician underneath the hood is surreal and one of my favorite passions.
+
+Honestly, you make look at my repositories and call my code dog water, and that's okay! I'm not very experienced with this, but I'm an incredibly fast and willing learner.
+
+Teach a man to fish and he's a fisherman. Teach the same man how to program, and now he's an Angular. lol.
+
+---
 
 ## Technical Skills 🛠️
 

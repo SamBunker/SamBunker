@@ -17,7 +17,8 @@ Lately, I've been focused on:
 ## Featured Projects 🚀
 
 ### Web Development & Design
-- **Code Bunker** - A full-stack web application project management dashboard used for managing the modernization of tasks across web apps, mobile apps, APIs, databases, and infrastructure. Wrote using PHP, MySQL, XAMPP, WCAG 2.1, HTML, CSS (Raw and Bootstrap5), JavaScript, and more.
+- **Code Bunker** - A comprehensive, enterprise-grade project management system designed to securely track and manage development projects. PHP 8.x, MySQL, PDO, XAMPP (Apache), bcrypt Password Hashing, Session Management, CSRF Protection, HTML5, CSS3 (Custom & Bootstrap 5), JavaScript ES6+, Chart.js, SortableJS, Calendar.js, Service Workers, PWA (Progressive Web App), WCAG 2.1 AA Accessibility Compliance, Lighthouse Performance Optimization (95+ score), Git Version Control, CSS Grid/Flexbox, JSON Web APIs, RESTful Architecture, Responsive Design, and Cross-browser Compatibility
+
 - **Juniata Esports Website** - Full-stack website showcasing collegiate esports program history and student perspectives using Node.js, Express, Vercel, AWS EC2, and RESTful API
 - **Hackathon Winner 2023** - 🏆 1st place winner building a React-based website for local non-profit using React Components, JSX, CSS, and Figma wireframing
 - **Hackathon Winner 2022** - 🏆 1st place winner creating a movie theatre website using HTML, CSS, JavaScript, and wireframing techniques

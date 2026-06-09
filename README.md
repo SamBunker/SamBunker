@@ -8,10 +8,13 @@ Actively looking for opportunities in Web Development, Full Stack Development, a
 - 🎓 Bachelor's of Science in Information Technology from Juniata College
 - 🎓 Graphic Communications Certificate from FCCTC, Pennsylvania
 
-### I'm currently working on:
+### I recently finished:
 - ✌️ Harper and Lyre Projects (UE5, Web Development, Social Media Management, and Community Lead)
 - 🎨 My Website Portfolio
 - 🍾 My Wife's Portfolio
+
+### I'm currently working on:
+- Figuring this out.
 
 ### What I'm best at:
 - ✨ Full Stack Development

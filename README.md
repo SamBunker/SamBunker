@@ -14,7 +14,7 @@ Actively looking for opportunities in Web Development, Full Stack Development, a
 - 🍾 My Wife's Portfolio
 
 ### I'm currently working on:
-- Figuring this out.
+- Establishing my next side-hustle
 
 ### What I'm best at:
 - ✨ Full Stack Development
